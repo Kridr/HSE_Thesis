@@ -1,7 +1,7 @@
 # HSE Thesis
 
 This repository is devoted to my code part of my Master's Thesis at HSE where I research some initial transformation of bipartite graph of user-item interactions for increasing metrics of GNN-based RecSys algorithms.
-[TBD link to this work]
+[Link to this full research](https://www.overleaf.com/read/jwbzqkkjjzvj#169d18).
 
 It heavily depends on [Graph-Utils](https://github.com/sisinflab/Graph-Demo) repository. Their repository have some mistakes, but generally it is perfect. If you have troubles debugging their project, please write me in DM using Telegram in bio.
 
